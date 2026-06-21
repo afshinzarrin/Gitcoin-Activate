@@ -1,1 +1,2 @@
 # Gitcoin-Activate
+just point
